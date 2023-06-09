@@ -1,7 +1,7 @@
 # dataset_Montero-Castano_etal_Biological_Invasions_2023
 
 ## Brief summary of dataset contents, contextualized in experimental procedures and results.
-This is the dataset used for the SEM analysis of the paper "Influential factors and barriers change along the invasion continuum of an alien plant" published in Biological Invasions (10.1007/s10530-023-03087-3)
+This is the dataset used for the SEM analysis of the paper "Montero-Castaño, A.; Aizen, M.A.; González-Moreno, P.; Cavallero, L.; Vilà, M.; Morales, C.L. 2023. Influential factors and barriers change along the invasion continuum of an alien plant. Biological Invasions (10.1007/s10530-023-03087-3)"
 
 
 ## Description of the data and file structure
