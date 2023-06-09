@@ -21,7 +21,7 @@ Please, find below the metadata of the file with the description of variables, s
 
 - shrubland_cover_750: cover (%) of shrubland habitats (i.e., alto andino, matorral, estepa y pradera, pastizal húmedo, pastizal antropizado, lenga achaparrada and vacíos) in an area of 750 m radius from the centroid of the study patch. This variable is log-transformed and standardised by subtracting the mean and dividing it by the standard deviation. Source: Land cover Map of Nahuel Huapi N.P (Gowda et al, 2014) updated based on Google Earth 2011
 
-- slope_750: mean slope (º) in an area of 750 m radius from the centroid of the study patch. This variable is logit-transformed and standardised by subtracting the mean and dividing it by the standard deviation. Source: Digital Elevation Model (http://asterweb. jpl.nasa.gov/gdem.asp)
+- slope_750: mean slope (º) in an area of 750 m radius from the centroid of the study patch. This variable is logit-transformed and standardised by subtracting the mean and dividing it by the standard deviation. Source: Digital Elevation Model (http://asterweb.jpl.nasa.gov/gdem.asp)
 
 - urban_cover_750: cover (%) of urban habitats in an area of 750 m radius from the centroid of the study patch. This variable is log-transformed and standardised by subtracting the mean and dividing it by the standard deviation. Source: Land cover Map of Nahuel Huapi N.P (Gowda et al, 2014) updated based on Google Earth 2011
 
